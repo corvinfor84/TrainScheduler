@@ -1,0 +1,24 @@
+
+		body {
+
+			background-color: black;
+
+		}
+	
+		.panel-body-cobra {
+			background-color: grey;
+		}
+
+		.item {
+
+			width:500px;
+			height: 300px; 
+
+		}
+
+		.carousel-inner {
+
+			position: relative;
+			left: 30%;
+
+		}
